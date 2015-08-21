@@ -1,0 +1,398 @@
+
+.demo_wrapper {
+	width: 70%;
+}
+
+
+/****** taproom ********/
+
+.demo_wrapper_taproom {
+	width: 40%;
+	float:left;
+	margin-right:20px;
+}
+
+.demo_wrapper_taproom_banner
+ {
+	width: 80%;
+}
+
+/****** taproom ********/
+
+
+
+/****** pbcantina ********/
+
+.demo_wrapper_pbcantina {
+	width: 60%;
+}
+
+.demo_wrapper_pbcantina_banner
+ {
+	width: 60%;
+}
+
+/****** pbcantina ********/
+
+
+
+
+/****** cabocantina ********/
+
+.demo_wrapper_cabocantina {
+	width: 60%;
+}
+
+.demo_wrapper_cabocantina_banner
+ {
+	width: 75%;
+}
+
+
+/****** cabocantina ********/
+
+
+
+
+
+/****** duckdive ********/
+
+.demo_wrapper_duckdive {
+	width: 80%;
+}
+
+.demo_wrapper_duckdive_banner
+ {
+	width: 80%;
+}
+
+/****** duckdive ********/
+
+
+
+
+
+/****** bubs ********/
+
+.demo_wrapper_bubs {
+	width: 40%;
+	float:left;
+	margin-right:20px;
+}
+
+.demo_wrapper_bubs_banner
+ {
+	width: 70%;
+}
+
+/****** bubs ********/
+
+
+
+
+
+/****** barrelrepublic ********/
+
+.demo_wrapper_barrelrepublic {
+	width: 40%;
+}
+
+.demo_wrapper_barrelrepublic_banner
+ {
+	width: 70%;
+}
+
+/****** barrelrepublic ********/
+
+
+
+
+
+/****** millers ********/
+
+.demo_wrapper_millers {
+	width: 40%;
+}
+
+.demo_wrapper_millers_banner
+ {
+	width: 100%;
+}
+
+/****** millers ********/
+
+
+
+
+
+/****** pbshoreclub ********/
+
+.demo_wrapper_pbshoreclub {
+	width: 50%;
+}
+
+.demo_wrapper_pbshoreclub_banner
+ {
+	width: 90%;
+}
+
+/****** pbshoreclub ********/
+
+
+
+
+
+/****** tavern ********/
+
+.demo_wrapper_tavern {
+	width: 40%;
+}
+
+.demo_wrapper_tavern_banner
+ {
+	width: 100%;
+}
+
+/****** tavern ********/
+
+
+
+
+/****** pbalehouse ********/
+
+.demo_wrapper_pbalehouse {
+	width: 40%;
+}
+
+.demo_wrapper_pbalehouse_banner
+ {
+	width: 100%;
+}
+
+/****** pbalehouse ********/
+
+
+
+
+
+/****** typhoon ********/
+
+.demo_wrapper_typhoon {
+	width: 40%;
+}
+
+.demo_wrapper_typhoon_banner
+ {
+	width: 80%;
+}
+
+/****** typhoon ********/
+
+
+
+
+/****** bareback ********/
+
+.demo_wrapper_bareback {
+	width: 40%;
+}
+
+.demo_wrapper_bareback_banner
+ {
+	width: 80%;
+}
+
+/****** bareback ********/
+
+
+
+/****** 710 ********/
+
+.demo_wrapper_710 {
+	width: 60%;
+}
+
+.demo_wrapper_710_banner
+ {
+	width: 80%;
+}
+
+/****** 710 ********/
+
+
+
+/****** thewood ********/
+
+.demo_wrapper_thewood {
+	width: 50%;
+}
+
+.demo_wrapper_thewood_banner
+ {
+	width: 70%;
+}
+
+/****** thewood ********/
+
+
+
+/****** local ********/
+
+.demo_wrapper_local {
+	width: 40%;
+}
+
+.demo_wrapper_local_banner
+ {
+	width: 100%;
+}
+
+/****** local ********/
+
+
+
+
+@media only screen and (max-device-width: 800px), screen and (max-width: 800px) {
+  .demo_wrapper {
+    width: 100%;
+  }
+  
+  .demo_wrapper_taproom {
+    width: 100%;
+  }  
+  
+  .demo_wrapper_taproom_banner {
+    width: 100%;
+  } 
+  
+  .demo_wrapper_pbcantina {
+	width: 100%;
+}
+
+.demo_wrapper_pbcantina_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_duckdive {
+	width: 100%;
+}
+
+.demo_wrapper_duckdive_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_bubs {
+	width: 100%;
+}
+
+.demo_wrapper_bubs_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_cabocantina {
+	width: 100%;
+}
+
+.demo_wrapper_cabocantina_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_barrelrepublic {
+	width: 100%;
+}
+
+.demo_wrapper_barrelrepublic_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_millers {
+	width: 100%;
+}
+
+.demo_wrapper_millers_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_pbshoreclub {
+	width: 100%;
+}
+
+.demo_wrapper_pbshoreclub_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_tavern {
+	width: 100%;
+}
+
+.demo_wrapper_tavern_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_pbalehouse {
+	width: 100%;
+}
+
+.demo_wrapper_pbalehouse_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_typhoon {
+	width: 100%;
+}
+
+.demo_wrapper_typhoon_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_bareback {
+	width: 100%;
+}
+
+.demo_wrapper_bareback_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_710 {
+	width: 100%;
+}
+
+.demo_wrapper_710_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_thewood {
+	width: 100%;
+}
+
+.demo_wrapper_thewood_banner
+ {
+	width: 100%;
+}
+
+.demo_wrapper_local {
+	width: 100%;
+}
+
+.demo_wrapper_local_banner
+ {
+	width: 100%;
+}
+  
+    
+}
+.demo_block {
+	width: 100%;
+}
